@@ -17,9 +17,6 @@
     - [7. Click in the Continue Shopping on the Cart Page to go to the Home Page.](#7-click-in-the-continue-shopping-on-the-cart-page-to-go-to-the-home-page)
   - [Technologies Used](#technologies-used)
  
-## Netlify Deployed URL
-
-🔸*Check out My ContextAPI Shopping Cart  Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://contextapi-react-task-5.netlify.app)
 
 ## Features
 
